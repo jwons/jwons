@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a PhD Candidate at The University of British Columbia.
+
+I'm interested in computational reproducibility, provenance, and teaching. 
+
+Check out my website for more information on the projects I'm working on and the classes I'm teaching!
+
+[josephs.website](https://josephs.website)
 <!--
 **jwons/jwons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
